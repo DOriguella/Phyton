@@ -46,3 +46,60 @@ my_int = 3
 / # The print keyword will be covered in detail soon!
 
 print my_int
+
+# Whitespace
+
+def spam():
+eggs = 12
+return eggs
+        
+print spam()
+
+# Whitespace means Right Space
+
+def spam():
+  eggs = 12
+  return eggs
+        
+print spam()
+
+# A Matter of Interpretation
+
+spam = True 
+eggs = False
+
+# Single Line Comments
+
+/ # comment
+
+mysterious_variable = 42
+
+# Multi-Line Comments
+
+"""random comment in many quotation marks
+more of the comment
+comment"""
+
+# Math
+
+/# Set count_to equal to the sum of two big numbers
+
+count_to = 123+456
+
+
+/# Write code above!
+
+print count_to
+
+# Exponential
+
+/# Set eggs equal to 100 using exponentiation on line 3!
+
+eggs = 10**2
+
+/# Write your code above!
+
+print eggs
+
+# Modulo
+
