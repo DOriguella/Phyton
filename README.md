@@ -4,19 +4,19 @@ Codecademy course for phyton
 
 print "Welcome to Python!"
 
-Variables
+# Variables
 
-# Write your code below!
+/ # Write your code below!
 
 my_variable = 10
 
-# Write your code above!
+/ # Write your code above!
 
 print my_variable
 
-Booleans
+# Booleans
 
-# Set the variables to the values listed in the instructions!
+/ # Set the variables to the values listed in the instructions!
 
 my_int = 7
 
@@ -25,7 +25,7 @@ my_float = 1.23
 my_bool = True
 
 
-# Write your code above!
+/ # Write your code above!
 
 print my_int
 print my_float
