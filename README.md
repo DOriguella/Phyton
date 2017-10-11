@@ -103,3 +103,10 @@ print eggs
 
 # Modulo
 
+/#Set spam equal to 1 using modulo on line 3!
+
+spam = 5 % 2
+
+/# Write your code above!
+
+print spam
