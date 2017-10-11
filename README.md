@@ -110,3 +110,10 @@ spam = 5 % 2
 /# Write your code above!
 
 print spam
+
+# Bringing it all Together
+
+/# Here goes nothing
+monty = True
+python = 1.234
+monty_python = python**2
